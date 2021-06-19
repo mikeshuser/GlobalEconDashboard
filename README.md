@@ -1,2 +1,2 @@
 # GlobalEconDashboard
- Global Economy Dashboard in Excel
+ Sample global economy dashboard in Excel. Based on the Penn World Table, v10.0
